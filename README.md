@@ -6,9 +6,9 @@ Nous avons réalisé un système d'intégration des données commerciales journa
 
 Nous avons un répertoire contenant les ventes journalières sur Mobilier, Technologie et Fournitures de bureau.
 
-![alt text](https://github.com/Gerard237/e2e-data-pipeline/blob/main/repertoire.png)
+![alt text](https://github.com/Gerard237/systeme-integration-talend /blob/main/repertoire.png)
 
-![alt text](https://github.com/Gerard237/e2e-data-pipeline/blob/main/fichier_csv.png)
+![alt text](https://github.com/Gerard237/systeme-integration-talend /blob/main/fichier_csv.png)
 
 #### Création du job Talend
 
@@ -18,7 +18,7 @@ Nous avons créé plusieurs jobs Talend pour l'ingestion des données dans la ba
 
 Ci-dessous, le job qui charge les données provenant du fichier Catégorie : 
 
-![alt text](https://github.com/Gerard237/e2e-data-pipeline/blob/main/job.png)
+![alt text](https://github.com/Gerard237/systeme-integration-talend /blob/main/job.png)
 
 #### La suite :
 
