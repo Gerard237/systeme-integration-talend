@@ -4,7 +4,7 @@ Nous avons réalisé un système d'intégration des données commerciales journa
 
 #### Source de donnée
 
-Nous avons un répertoire contenant les ventes journalières sur Mobilier, Technologie et Fournitures de bureau.
+Nous avons un répertoire(20241008) contenant les ventes journalières sur Mobilier, Technologie et Fournitures de bureau.
 
 ![alt text](https://github.com/Gerard237/systeme-integration-talend/blob/main/repertoire.png)
 
