@@ -20,6 +20,6 @@ Ci-dessous, le job qui charge les données provenant du fichier Catégorie :
 
 ![alt text](https://github.com/Gerard237/systeme-integration-talend/blob/main/job.png)
 
-#### La suite :
+#### Résultat
 
-Création du schema du DataWarehouse
+La creation d'un référentiel client et produit
